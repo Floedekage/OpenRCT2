@@ -3,97 +3,97 @@
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
-STR_0002    :Ride
-STR_0003    :Ride
-STR_0004    :Suspended Swinging Coaster
-STR_0005    :Ride
-STR_0006    :Junior Roller Coaster
-STR_0007    :Miniature Railway
-STR_0008    :Monorail
-STR_0009    :Mini Suspended Coaster
-STR_0010    :Ride
-STR_0011    :Ride
-STR_0012    :Ride
-STR_0013    :Car Ride
-STR_0014    :Ride
-STR_0015    :Ride
-STR_0016    :Ride
-STR_0017    :Looping Roller Coaster
-STR_0018    :Ride
-STR_0019    :Ride
-STR_0020    :Chairlift
-STR_0021    :Ride
-STR_0022    :Ride
-STR_0023    :Ride
-STR_0024    :Ride
-STR_0025    :Ride
-STR_0026    :Ride
-STR_0027    :Ride
-STR_0028    :Ride
-STR_0029    :Ride
-STR_0030    :Stall
-STR_0031    :Stall
-STR_0032    :Stall
-STR_0033    :Stall
-STR_0034    :Stall
-STR_0035    :Ride
-STR_0036    :Stall
+STR_0002    :Forlystelse
+STR_0003    :Forlystelse
+STR_0004    :Ophængt Svingende Rutchebane
+STR_0005    :Forlystelse
+STR_0006    :Børnerutchebane
+STR_0007    :Minijernbane
+STR_0008    :Enskinnebane
+STR_0009    :Mini Ophængt Rutchebane
+STR_0010    :Forlystelse
+STR_0011    :Forlystelse
+STR_0012    :Forlystelse
+STR_0013    :Selvkørende Biler
+STR_0014    :Forlystelse
+STR_0015    :Forlystelse
+STR_0016    :Forlystelse
+STR_0017    :Loopende Rutchebane
+STR_0018    :Forlystelse
+STR_0019    :Forlystelse
+STR_0020    :Skilift
+STR_0021    :Forlystelse
+STR_0022    :Forlystelse
+STR_0023    :Forlystelse
+STR_0024    :Forlystelse
+STR_0025    :Forlystelse
+STR_0026    :Forlystelse
+STR_0027    :Forlystelse
+STR_0028    :Forlystelse
+STR_0029    :Forlystelse
+STR_0030    :Bod
+STR_0031    :Bod
+STR_0032    :Bod
+STR_0033    :Bod
+STR_0034    :Bod
+STR_0035    :Forlystelse
+STR_0036    :Bod
 STR_0037    :Kiosk
 STR_0038    :Toilet
-STR_0039    :Ride
-STR_0040    :Ride
-STR_0041    :Ride
-STR_0042    :Ride
-STR_0043    :Ride
-STR_0044    :Reverse Freefall Coaster
+STR_0039    :Forlystelse
+STR_0040    :Forlystelse
+STR_0041    :Forlystelse
+STR_0042    :Forlystelse
+STR_0043    :Forlystelse
+STR_0044    :Tilbagetrukket Rutchebane
 STR_0045    :Lift
-STR_0046    :Ride
-STR_0047    :Ride
-STR_0048    :Ride
-STR_0049    :Ride
-STR_0050    :Ride
-STR_0051    :Ride
-STR_0052    :Ride
-STR_0053    :Hyper-Twister Roller Coaster
-STR_0054    :Wooden Roller Coaster
-STR_0055    :Side-Friction Roller Coaster
-STR_0056    :Wild Mouse
-STR_0057    :Multi-Dimension Roller Coaster
-STR_0058    :Ride
-STR_0059    :Aerial Inverted Roller Coaster
-STR_0060    :Ride
-STR_0061    :Ride
-STR_0062    :Ride
-STR_0063    :Ride
-STR_0064    :Ride
-STR_0065    :Suspended Monorail
-STR_0066    :Ride
-STR_0067    :Ride
-STR_0068    :Heartline Twister Coaster
-STR_0069    :Ride
-STR_0070    :Ride
-STR_0071    :Ride
-STR_0072    :Ride
-STR_0073    :Ride
-STR_0074    :Ride
-STR_0075    :Ride
-STR_0076    :Water Coaster
-STR_0077    :Ride
-STR_0078    :Ride
-STR_0079    :Ride
-STR_0080    :Ride
-STR_0081    :Ride
-STR_0082    :Ride
-STR_0083    :Ride
-STR_0084    :Ride
-STR_0085    :Ride
-STR_0086    :Ride
-STR_0087    :Ride
-STR_0088    :Ride
-STR_0089    :Mini Roller Coaster
-STR_0090    :Ride
-STR_0091    :Ride
-STR_0092    :Ride
+STR_0046    :Forlystelse
+STR_0047    :Forlystelse
+STR_0048    :Forlystelse
+STR_0049    :Forlystelse
+STR_0050    :Forlystelse
+STR_0051    :Forlystelse
+STR_0052    :Forlystelse
+STR_0053    :Hyper-Snurrende Rutchebane
+STR_0054    :Trærutchebane
+STR_0055    :Side-Friktions Rutchebane
+STR_0056    :Vildmus
+STR_0057    :Multidimensionel Rutchebane
+STR_0058    :multidimensionel
+STR_0059    :Inverteret Rutchebane
+STR_0060    :Forlystelse
+STR_0061    :Forlystelse
+STR_0062    :Forlystelse
+STR_0063    :Forlystelse
+STR_0064    :Forlystelse
+STR_0065    :Ophængt Enskinnebane
+STR_0066    :Forlystelse
+STR_0067    :Forlystelse
+STR_0068    :Skrue-Rutchebane
+STR_0069    :Forlystelse
+STR_0070    :Forlystelse
+STR_0071    :Forlystelse
+STR_0072    :Forlystelse
+STR_0073    :Forlystelse
+STR_0074    :Forlystelse
+STR_0075    :Forlystelse
+STR_0076    :Vandrutchebane
+STR_0077    :Forlystelse
+STR_0078    :Forlystelse
+STR_0079    :Forlystelse
+STR_0080    :Forlystelse
+STR_0081    :Forlystelse
+STR_0082    :Forlystelse
+STR_0083    :Forlystelse
+STR_0084    :Forlystelse
+STR_0085    :Forlystelse
+STR_0086    :Forlystelse
+STR_0087    :Forlystelse
+STR_0088    :Forlystelse
+STR_0089    :Børnerutchebane
+STR_0090    :Forlystelse
+STR_0091    :Forlystelse
+STR_0092    :Forlystelse
 STR_0093    :
 STR_0094    :
 STR_0095    :
@@ -515,10 +515,10 @@ STR_0510    :
 STR_0511    :
 STR_0512    :
 STR_0513    :
-STR_0514    :Trains suspended beneath the roller coaster track swing out to the side around corners
+STR_0514    :Hængende vogne svinger ud til siderne når banen drejer
 STR_0515    :
-STR_0516    :A gentle roller coaster for people who haven't yet got the courage to face the larger rides
-STR_0517    :Passengers ride in miniature trains along a narrow-gauge railway track
+STR_0516    :En blid rutchebane for dem som ikke har mod til de mere vilde forlystelser
+STR_0517    :Passagererne kører i små tog langs en smalsporsbane
 STR_0518    :Passengers travel in electric trains along a monorail track
 STR_0519    :Passengers ride in small cars hanging beneath the single-rail track, swinging freely from side to side around corners
 STR_0520    :
