@@ -998,151 +998,151 @@ STR_0993    :Nedriv forlystelsen
 STR_0994    :Nedriv
 STR_0995    :{WINDOW_COLOUR_1}Er du sikker på at du vil nedrive {STRINGID}?
 STR_0996    :Overblik
-STR_0997    :{SMALLFONT}{BLACK}View selection
-STR_0998    :No more stations allowed on this ride
-STR_0999    :Requires a station platform
-STR_1000    :Track is not a complete circuit
-STR_1001    :Track unsuitable for type of train
-STR_1002    :Can't open {POP16}{POP16}{POP16}{STRINGID}...
-STR_1003    :Can't test {POP16}{POP16}{POP16}{STRINGID}...
-STR_1004    :Can't close {POP16}{POP16}{POP16}{STRINGID}...
-STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
-STR_1006    :Must be closed first
-STR_1007    :Unable to create enough vehicles
-STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
-STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
-STR_1010    :{SMALLFONT}{BLACK}Open or close park
-STR_1011    :Close all
-STR_1012    :Open all
-STR_1013    :Close park
-STR_1014    :Open park
-STR_1015    :Unable to operate with more than one station platform in this mode
-STR_1016    :Unable to operate with less than two stations in this mode
-STR_1017    :Can't change operating mode...
-STR_1018    :Can't make changes...
-STR_1019    :Can't make changes...
-STR_1020    :Can't make changes...
+STR_0997    :{SMALLFONT}{BLACK}Se markering
+STR_0998    :Flere stationer er ikke tilladt på denne forlystelse
+STR_0999    :Kræver en perron
+STR_1000    :Sporet er ikke sammensluttet
+STR_1001    :Vognsæt passer ikke til dette spor
+STR_1002    :Kan ikke åbne {POP16}{POP16}{POP16}{STRINGID}...
+STR_1003    :Kan ikke afprøve {POP16}{POP16}{POP16}{STRINGID}...
+STR_1004    :Kan ikke lukke {POP16}{POP16}{POP16}{STRINGID}...
+STR_1005    :Kan ikke påbegynde konstruktion af {POP16}{POP16}{POP16}{STRINGID}...
+STR_1006    :Skal være lukket først
+STR_1007    :Kan ikke lave nok vogne
+STR_1008    :{SMALLFONT}{BLACK}Åben, luk eller afprøv forlystelse
+STR_1009    :{SMALLFONT}{BLACK}Åben eller luk alle forlystelser
+STR_1010    :{SMALLFONT}{BLACK}Åben eller luk forlystelsespark
+STR_1011    :Luk alle
+STR_1012    :Åben alle
+STR_1013    :Luk forlystelsespark
+STR_1014    :Åben forlystelsespark
+STR_1015    :Kan ikke operere med mere end én station i denne tilstand
+STR_1016    :Kan ikke operere med mindre end to stationer i denne tilstand
+STR_1017    :Kan ikke ændre driftsform...
+STR_1018    :Kan ikke ændres...
+STR_1019    :Kan ikke ændres...
+STR_1020    :Kan ikke ændres...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
-STR_1024    :{COMMA16} car per train
-STR_1025    :{COMMA16} cars per train
-STR_1026    :Station platform too long!
-STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
-STR_1028    :Off edge of map!
-STR_1029    :Cannot build partly above and partly below water!
-STR_1030    :Can only build this underwater!
-STR_1031    :Can't build this underwater!
-STR_1032    :Can only build this on water!
-STR_1033    :Can only build this above ground!
-STR_1034    :Can only build this on land!
-STR_1035    :Local authority won't allow construction above tree-height!
-STR_1036    :Load Game
-STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
-STR_1040    :Save Game
-STR_1041    :Save Scenario
-STR_1042    :Save Landscape
-STR_1043    :RollerCoaster Tycoon 2 Saved Game
-STR_1044    :RollerCoaster Tycoon 2 Scenario File
-STR_1045    :RollerCoaster Tycoon 2 Landscape File
-STR_1046    :RollerCoaster Tycoon 2 Track Design File
-STR_1047    :Game save failed!
-STR_1048    :Scenario save failed!
-STR_1049    :Landscape save failed!
-STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
-STR_1051    :Invisible Supports
-STR_1052    :Invisible People
-STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
-STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
-STR_1055    :{SMALLFONT}{BLACK}Name person
-STR_1056    :{SMALLFONT}{BLACK}Name staff member
-STR_1057    :Ride/attraction name
-STR_1058    :Enter new name for this ride/attraction:
-STR_1059    :Can't rename ride/attraction...
-STR_1060    :Invalid ride/attraction name
-STR_1061    :Normal mode
-STR_1062    :Continuous circuit mode
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
-STR_1066    :Boat hire mode
-STR_1067    :Upward launch
-STR_1068    :Rotating lift mode
-STR_1069    :Station to station mode
-STR_1070    :Single ride per admission
-STR_1071    :Unlimited rides per admission
-STR_1072    :Maze mode
-STR_1073    :Race mode
-STR_1074    :Bumper-car mode
-STR_1075    :Swing mode
-STR_1076    :Shop stall mode
-STR_1077    :Rotation mode
-STR_1078    :Forward rotation
-STR_1079    :Backward rotation
-STR_1080    :Film: {ENDQUOTES}Avenging aviators{ENDQUOTES}
-STR_1081    :3D film: {ENDQUOTES}Mouse tails{ENDQUOTES}
-STR_1082    :Space rings mode
-STR_1083    :Beginners mode
-STR_1084    :LIM-powered launch
-STR_1085    :Film: {ENDQUOTES}Thrill riders{ENDQUOTES}
-STR_1086    :3D film: {ENDQUOTES}Storm chasers{ENDQUOTES}
-STR_1087    :3D film: {ENDQUOTES}Space raiders{ENDQUOTES}
-STR_1088    :Intense mode
-STR_1089    :Berserk mode
-STR_1090    :Haunted house mode
-STR_1091    :Circus show mode
-STR_1092    :Downward launch
-STR_1093    :Crooked house mode
-STR_1094    :Freefall drop mode
-STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
-STR_1098    :Moving to end of {POP16}{STRINGID}
-STR_1099    :Waiting for passengers at {POP16}{STRINGID}
-STR_1100    :Waiting to depart {POP16}{STRINGID}
-STR_1101    :Departing {POP16}{STRINGID}
-STR_1102    :Travelling at {VELOCITY}
-STR_1103    :Arriving at {POP16}{STRINGID}
-STR_1104    :Unloading passengers at {POP16}{STRINGID}
-STR_1105    :Travelling at {VELOCITY}
-STR_1106    :Crashing!
-STR_1107    :Crashed!
-STR_1108    :Travelling at {VELOCITY}
-STR_1109    :Swinging
-STR_1110    :Rotating
-STR_1111    :Rotating
-STR_1112    :Operating
-STR_1113    :Showing film
-STR_1114    :Rotating
-STR_1115    :Operating
-STR_1116    :Operating
-STR_1117    :Doing circus show
-STR_1118    :Operating
-STR_1119    :Waiting for cable lift
-STR_1120    :Travelling at {VELOCITY}
-STR_1121    :Stopping
-STR_1122    :Waiting for passengers
-STR_1123    :Waiting to start
-STR_1124    :Starting
-STR_1125    :Operating
-STR_1126    :Stopping
-STR_1127    :Unloading passengers
-STR_1128    :Stopped by block brakes
-STR_1129    :All vehicles in same colours
-STR_1130    :Different colours per {STRINGID}
-STR_1131    :Different colours per vehicle
-STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1133    :Vehicle {POP16}{COMMA16}
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} vogn pr. vognsæt
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} vogne pr. vognsæt
+STR_1024    :{COMMA16} vogn pr. vognsæt
+STR_1025    :{COMMA16} vogne pr. vognsæt
+STR_1026    :Perronen er for lang!
+STR_1027    :{SMALLFONT}{BLACK}Lokaliser i hovedvinduet
+STR_1028    :Uden for kortet!
+STR_1029    :Kan ikke bygge delvist over og under vandet!
+STR_1030    :Kan kun bygges under vandet!
+STR_1031    :Kan ikke bygges under vandet!
+STR_1032    :Kan kun bygges på vandet!
+STR_1033    :Kan kun bygges over jorden!
+STR_1034    :Kan kun bygges på jorden!
+STR_1035    :De lokale myndigheder tillader ikke konstruktioner over træ-højde!
+STR_1036    :Hent Spil
+STR_1037    :Hent Landskab
+STR_1038    :Konventer gemt spil til scenarie
+STR_1039    :Installer Ny Sporkonstruktion
+STR_1040    :Gem Spil
+STR_1041    :Gem Scenarie
+STR_1042    :Gem Landskab
+STR_1043    :RollerCoaster Tycoon 2 Gemt Spil
+STR_1044    :RollerCoaster Tycoon 2 Scenarie Fil
+STR_1045    :RollerCoaster Tycoon 2 Landskabs Fil
+STR_1046    :RollerCoaster Tycoon 2 Sporkonstruktions Fil
+STR_1047    :Mislykkedes i at gemme spil!
+STR_1048    :Mislykkedes i at gemme scenarie!
+STR_1049    :Mislykkedes i at gemme landskab!
+STR_1050    :Midlykkedes i at hente...{NEWLINE}Filen er delvist ødelagt!
+STR_1051    :Usynliggør Stolper
+STR_1052    :Usynliggør Mennesker
+STR_1053    :{SMALLFONT}{BLACK}Forlystelser i haven
+STR_1054    :{SMALLFONT}{BLACK}Navngiv forlystelse
+STR_1055    :{SMALLFONT}{BLACK}Navngiv person
+STR_1056    :{SMALLFONT}{BLACK}Navngiv personale
+STR_1057    :Forlystelses navn
+STR_1058    :Indtast nyt navn til denne forlystelswe:
+STR_1059    :Kan ikke ændre forlystelsens navn...
+STR_1060    :Ugyldingt forlystelses navn
+STR_1061    :Operer som normalt
+STR_1062    :Kontinuerlig bane
+STR_1063    :Tilbagetrukket pendulbane
+STR_1064    :Affyring (passerende perronen)
+STR_1065    :Pendulbane
+STR_1066    :Bådudlejning
+STR_1067    :Opadgående affyring
+STR_1068    :Roterende løft
+STR_1069    :Perron til perron funktion
+STR_1070    :Enkelt tur pr. indgang
+STR_1071    :Ubegrænset antal ture pr. indgang
+STR_1072    :Labyrint funktion
+STR_1073    :Væddeløb
+STR_1074    :Radiobil
+STR_1075    :Gynge funktion
+STR_1076    :Bod/butik funktion
+STR_1077    :Roterende funktion
+STR_1078    :Forlæns rotation
+STR_1079    :Baglæns rotation
+STR_1080    :Film: {ENDQUOTES}Hævnens Helte{ENDQUOTES}
+STR_1081    :3D film: {ENDQUOTES}I Hælene på Musen{ENDQUOTES}
+STR_1082    :Space rings mode #TODO (Find DK name for ride)
+STR_1083    :Begynder
+STR_1084    :Affyring med linear-motor
+STR_1085    :Film: {ENDQUOTES}Højspændingsrytterne{ENDQUOTES}
+STR_1086    :3D film: {ENDQUOTES}Orkan-jægerne{ENDQUOTES}
+STR_1087    :3D film: {ENDQUOTES}Røvere fra rummet{ENDQUOTES}
+STR_1088    :Intens indstilling
+STR_1089    :Ustyrlig indstilling
+STR_1090    :Hjemsøgt hus
+STR_1091    :Cirkusforestilling
+STR_1092    :Nedadgående affyring
+STR_1093    :Hurlumhej hus
+STR_1094    :Frit fald indstilling
+STR_1095    :Kontinuerlig bane med blokafsnit
+STR_1096    :Affyring (uden at passere perron)
+STR_1097    :Affyring med blokafsnit
+STR_1098    :Bevæger sig mod enden af {POP16}{STRINGID}
+STR_1099    :Venter på passagerer på {POP16}{STRINGID}
+STR_1100    :Venter på grønt lys {POP16}{STRINGID}
+STR_1101    :Afgår {POP16}{STRINGID}
+STR_1102    :Rejser mod {VELOCITY}
+STR_1103    :Ankommer til {POP16}{STRINGID}
+STR_1104    :Sætter passagerer af ved {POP16}{STRINGID}
+STR_1105    :Rejser med {VELOCITY}
+STR_1106    :Kører galt!
+STR_1107    :Kørt galt!
+STR_1108    :Rejser med {VELOCITY}
+STR_1109    :Gynger
+STR_1110    :Roterer
+STR_1111    :Roterer
+STR_1112    :Opererer
+STR_1113    :Viser film
+STR_1114    :Roterer
+STR_1115    :Opererer
+STR_1116    :Opererer
+STR_1117    :Viser cirkusforestilling
+STR_1118    :Opererer
+STR_1119    :Venter på skilift
+STR_1120    :Rejser med {VELOCITY}
+STR_1121    :Stopper
+STR_1122    :Venter på passagerer
+STR_1123    :Venter på start
+STR_1124    :Starter
+STR_1125    :Opererer
+STR_1126    :Stopper
+STR_1127    :Aflæsser passagerer
+STR_1128    :Stoppet ved blokbremser
+STR_1129    :Alle vogne i samme farve
+STR_1130    :Forskellige farver pr. {STRINGID}
+STR_1131    :Forskellige farver pr. vogn
+STR_1132    :Vogn {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1133    :Vogn {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :{SMALLFONT}{BLACK}Select main colour
-STR_1137    :{SMALLFONT}{BLACK}Select additional colour 1
-STR_1138    :{SMALLFONT}{BLACK}Select additional colour 2
-STR_1139    :{SMALLFONT}{BLACK}Select support structure colour
-STR_1140    :{SMALLFONT}{BLACK}Select vehicle colour scheme option
-STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
+STR_1136    :{SMALLFONT}{BLACK}Vælg hovedfarven
+STR_1137    :{SMALLFONT}{BLACK}Vælg yderligere farve nr. 1
+STR_1138    :{SMALLFONT}{BLACK}Vælg yderligere farve nr. 2
+STR_1139    :{SMALLFONT}{BLACK}Vælg stolpe farve
+STR_1140    :{SMALLFONT}{BLACK}Vælg vognfarve skema
+STR_1141    :{SMALLFONT}{BLACK}Vælg hvilke(n) vogn der skal farves
 STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1144    :Can't build/move entrance for this ride/attraction...
